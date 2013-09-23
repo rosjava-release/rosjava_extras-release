@@ -12,7 +12,7 @@ tracks:
     last_version: 0.1.2
     name: rosjava_extras
     patches: null
-    release_inc: '0'
+    release_inc: '1'
     release_repo_url: https://github.com/rosjava-release/rosjava_extras-release.git
     release_tag: :{version}
     ros_distro: hydro
