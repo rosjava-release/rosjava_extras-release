@@ -1,7 +1,0 @@
-ros-hydro-rosjava-extras (0.1.2-1precise) precise; urgency=high
-
-  * use updated ros gradle plugins with maven-publish for publishing.
-
- -- Daniel Stonier <d.stonier@gmail.com>  Sun, 22 Sep 2013 15:00:00 -0000
-
-
