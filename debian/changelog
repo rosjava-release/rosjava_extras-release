@@ -1,0 +1,19 @@
+ros-hydro-rosjava-extras (0.1.4-0quantal) quantal; urgency=high
+
+  * use ROS_MAVEN_REPOSITORY
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Wed, 30 Oct 2013 15:00:00 -0000
+
+ros-hydro-rosjava-extras (0.1.3-0quantal) quantal; urgency=high
+
+  * official maven style open ended dependencies.
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Thu, 24 Oct 2013 15:00:00 -0000
+
+ros-hydro-rosjava-extras (0.1.2-0quantal) quantal; urgency=high
+
+  * use updated ros gradle plugins with maven-publish for publishing.
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 22 Sep 2013 15:00:00 -0000
+
+
