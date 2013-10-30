@@ -1,0 +1,12 @@
+Source: ros-hydro-rosjava-extras
+Section: misc
+Priority: extra
+Maintainer: Daniel Stonier <d.stonier@gmail.com>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin, ros-hydro-rosjava-bootstrap, ros-hydro-rosjava-build-tools, ros-hydro-rosjava-core
+Homepage: http://ros.org/wiki/rosjava_extras
+Standards-Version: 3.9.2
+
+Package: ros-hydro-rosjava-extras
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-rosjava-bootstrap, ros-hydro-rosjava-build-tools, ros-hydro-rosjava-core
+Description: Extra packages for rosjava_core
