@@ -1,3 +1,22 @@
+## rosjava_extras - 0.1.5-0
+
+User `snorri@snorriheim` released the packages in the `rosjava_extras` repository by running `/usr/bin/bloom-release --track hydro --rosdistro hydro rosjava_extras` on `Mon, 11 Nov 2013 15:27:38 -0000`
+
+The `rosjava_extras` package was released.
+
+Version of package(s) in repository `rosjava_extras`:
+- rosdistro version: `0.1.4-0`
+- old version: `0.1.4-0`
+- new version: `0.1.5-0`
+
+Versions of tools used:
+- bloom version: `0.4.4`
+- catkin_pkg version: `0.1.19`
+- rosdep version: `0.10.21`
+- rosdistro version: `0.2.13`
+- vcstools version: `0.1.31`
+
+
 ## rosjava_extras - 0.1.4-0
 
 User `stonier@inno` released the packages in the `rosjava_extras` repository by running `/usr/bin/bloom-release --track hydro --rosdistro hydro rosjava_extras` on `Wed, 30 Oct 2013 23:55:29 -0000`
