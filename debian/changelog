@@ -1,0 +1,32 @@
+ros-indigo-rosjava-extras (0.2.1-0saucy) saucy; urgency=high
+
+  * gradle 1.8 -> 2.2.1
+  * Contributors: Daniel Stonier
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Tue, 24 Feb 2015 15:00:00 -0000
+
+ros-indigo-rosjava-extras (0.1.5-0saucy) saucy; urgency=high
+
+  * constrain open ranged dependencies.
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Thu, 31 Oct 2013 15:00:00 -0000
+
+ros-indigo-rosjava-extras (0.1.4-0saucy) saucy; urgency=high
+
+  * use ROS_MAVEN_REPOSITORY
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Wed, 30 Oct 2013 15:00:00 -0000
+
+ros-indigo-rosjava-extras (0.1.3-0saucy) saucy; urgency=high
+
+  * official maven style open ended dependencies.
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Thu, 24 Oct 2013 15:00:00 -0000
+
+ros-indigo-rosjava-extras (0.1.2-0saucy) saucy; urgency=high
+
+  * use updated ros gradle plugins with maven-publish for publishing.
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 22 Sep 2013 15:00:00 -0000
+
+

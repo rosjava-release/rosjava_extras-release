@@ -1,0 +1,12 @@
+Source: ros-indigo-rosjava-extras
+Section: misc
+Priority: extra
+Maintainer: Daniel Stonier <d.stonier@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-rosjava-bootstrap, ros-indigo-rosjava-build-tools, ros-indigo-rosjava-core, ros-indigo-sensor-msgs
+Homepage: http://ros.org/wiki/rosjava_extras
+Standards-Version: 3.9.2
+
+Package: ros-indigo-rosjava-extras
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-rosjava-bootstrap, ros-indigo-rosjava-build-tools, ros-indigo-rosjava-core, ros-indigo-sensor-msgs
+Description: Extra packages for rosjava_core
