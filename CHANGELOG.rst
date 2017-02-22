@@ -1,6 +1,12 @@
 Changelog
 =========
 
+0.3.1 (2017-02-22)
+------------------
+* Add image submodule
+* publishMavenJavaPublicationToMavenRepository -> publish
+* Contributors: Julian Cerruti, talregev
+
 0.3.0 (2016-12-15)
 ------------------
 * Updates for kinetic release.
