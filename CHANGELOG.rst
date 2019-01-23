@@ -1,6 +1,11 @@
 Changelog
 =========
 
+0.3.4 (2019-01-23)
+------------------
+* Upgrading Gradle version to 4.10.2.
+* Contributors: Juan Ignacio Ubeira
+
 0.3.3 (2017-06-15)
 ------------------
 * move ImageEncodings class to sensor_msgs package. Makes it more similar to c++ and intuitive to use.
