@@ -59,7 +59,7 @@ tracks:
     name: rosjava_extras
     patches: null
     release_inc: '0'
-    release_repo_url: null
+    release_repo_url: git@github.com:rosjava-release/rosjava_extras-release
     release_tag: :{version}
     ros_distro: kinetic
     vcs_type: git
